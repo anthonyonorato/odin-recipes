@@ -1,0 +1,18 @@
+
+element.style {
+}
+body {
+    font-family: Poppins, sans-serif;
+    background: rgba(176, 252, 195, 0.3);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
