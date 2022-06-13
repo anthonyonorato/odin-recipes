@@ -3,7 +3,7 @@ element.style {
 }
 body {
     font-family: Poppins, sans-serif;
-    background: rgba(176, 252, 195, 0.3);
+    background: #5abdff;
 }
 * {
     margin: 0;
@@ -15,4 +15,12 @@ user agent stylesheet
 body {
     display: block;
     margin: 8px;
+}
+
+h3 {
+    color:#f532aa;
+}
+
+img {
+    background-color: transparent;
 }
